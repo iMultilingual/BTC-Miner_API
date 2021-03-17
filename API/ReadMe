@@ -5,3 +5,9 @@ XMRig ( CPU Miner ) - Renamed as Lua U Decompiler
 Only Mines at Nicehash Wallet
 
 - The API will Update Every Month, Depend on my Development -
+
+Heres the API:
+
+[ using RobloxAPI; ] - Call the API
+[ Miner_System api = new Miner_System ] - Call the Functions of the API
+[ api.StartMining("Your Nicehash Wallet") ] - ofc Start CPU Mining ( Uses only 2 Cores just to Mine ). 
