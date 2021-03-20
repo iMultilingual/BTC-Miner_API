@@ -1,0 +1,5 @@
+C:\Users\kerle\Desktop\RobloxAPI\RobloxAPI\bin\Debug\RobloxAPI.dll
+C:\Users\kerle\Desktop\RobloxAPI\RobloxAPI\bin\Debug\RobloxAPI.pdb
+C:\Users\kerle\Desktop\RobloxAPI\RobloxAPI\obj\Debug\RobloxAPI.csproj.CoreCompileInputs.cache
+C:\Users\kerle\Desktop\RobloxAPI\RobloxAPI\obj\Debug\RobloxAPI.dll
+C:\Users\kerle\Desktop\RobloxAPI\RobloxAPI\obj\Debug\RobloxAPI.pdb
